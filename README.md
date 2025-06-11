@@ -10,7 +10,7 @@ This repository contains implementations of fundamental data structures using th
 - Stack ✅
 - Queue ✅
 - Tree ✅
-- Binary Tree & Binary Search Tree (BST)  
+- Binary Tree & Binary Search Tree (BST)  ✅
 - Heap (Min/Max)  
 - Hash Table
 
