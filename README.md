@@ -6,13 +6,13 @@ This repository contains implementations of fundamental data structures using th
 
 ## ✅ Implemented Data Structures
 
-- [x] Linked List
-- [x] Stack
-- [x] Queue
-- [x] Binary Tree  
-- [x] Binary Search Tree (BST)  
-- [x] Heap (Min/Max)  
-- [x] Hash Table
+- Linked List ✅
+- Stack ✅
+- Queue ✅
+- Binary Tree ✅
+- Binary Search Tree (BST)  
+- Heap (Min/Max)  
+- Hash Table
 
 ---
 
